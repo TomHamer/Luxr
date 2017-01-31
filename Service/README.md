@@ -6,6 +6,7 @@ Luxr is a brand research tool that tracks the popularity of brands and words in 
 
 - Solr (for searching song lyrics)
 - Spring (integrated framework)
+- Gigster (starter project)
 - Spotify (for getting instantaneous popularity data)
 - Genius (for lyrics and other song data)
 
