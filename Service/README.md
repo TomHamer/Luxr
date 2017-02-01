@@ -1,4 +1,4 @@
-# Luxr niche brand research
+# Luxr - Niche brand research.
 
 Luxr is a brand research tool that tracks the popularity of brands and words in songs to perform sentiment analysis.
 
